@@ -1,0 +1,1 @@
+D:\opencv2\build\x64\vc14\bin\opencv_traincascade.exe -data xml -vec pos.vec -bg data\dataset1\neg\neg.txt -numPos 5 -numNeg 100  -numStages 10 -w 24 -h 24 -maxFalseAlarmRate 0.4
