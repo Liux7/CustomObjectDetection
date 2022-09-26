@@ -6,7 +6,7 @@ import numpy as np
 face_xml = cv2.CascadeClassifier('cascade.xml')
 # eye_xml = cv2.CascadeClassifier('haarcascade_eye.xml')
 # load jpg
-img = cv2.imread('3.png')
+img = cv2.imread('1.png')
 # img = cv2.imread('D:\CUP\general\img.png')
 cv2.imshow('src',img)
 # haar gray
