@@ -1,1 +1,0 @@
-D:\opencv2\build\x64\vc14\bin\opencv_createsamples.exe -info data\dataset1\pos\pos.txt -vec pos.vec -num 10 -w 24 -h 24 
